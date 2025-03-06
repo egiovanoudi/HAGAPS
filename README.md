@@ -24,6 +24,9 @@ hidden_size: Size of hidden layers \
 lamda: Regularization parameter of MAE and MSE loss \
 gamma: Regularization parameter of RANK loss
 
+## Data Availability
+The BL and SP datasets can be downloaded from DeeReCT-APA's repository: https://github.com/lzx325/DeeReCT-APA-repo/tree/master/APA_ML/Parental. The structures were obtained using the RNAplfold package, which can be downloaded from: https://www.tbi.univie.ac.at/RNA/.
+
 ## Training
 To train the model, please run `python main.py`
 
