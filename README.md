@@ -25,7 +25,6 @@ lamda: Regularization parameter of MAE and MSE loss \
 gamma: Regularization parameter of RANK loss
 
 ## Training
-The training, validation, and test data is located in the `Data` directory. The BL and SP datasets are obtained from 
 To train the model, please run `python main.py`
 
 ## Results
